@@ -38,5 +38,7 @@
  void setX(int px);(X座標を設定する)
  void setY(int py);(Y座標を設定する)
  int getX();(X座標を得る)
- int getY();(Y座標を得る) 
+ int getY();(Y座標を得る)
 ~~~
+
+> やさしいJava第7版p257~258
